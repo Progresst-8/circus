@@ -27,7 +27,8 @@ public class Circus {
                 // some 
                 // more
                 // code 
-                // here ...
+                // here
+                // ...
             }
         }
         return total;
